@@ -1,4 +1,4 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/allanwk/RRGA_scheduler/blob/master/README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/allanwk/SA-scheduler-public/blob/master/README.md)
 
 Algoritmo de Simulated Annealing para geração de horários escolares
 ==================
@@ -36,10 +36,10 @@ Entradas e Saídas
 
 ![schematic](images/horario.png)
 
-- [Configuração do número de aulas por professor](https://github.com/allanwk/RRGA_scheduler/blob/master/images/n_aulas_por_professor.png)
-- [Configuração do número de matérias por professor](https://github.com/allanwk/RRGA_scheduler/blob/master/images/materias_por_professor.png)
-- [Exemplo de restrição complexa de horário para um professor](https://github.com/allanwk/RRGA_scheduler/blob/master/images/restricoes.png)
-- [Exemplo de restrição de horário para um professor](https://github.com/allanwk/RRGA_scheduler/blob/master/images/restricoes_simples.png)
+- [Configuração do número de aulas por professor](https://github.com/allanwk/SA-scheduler-public/blob/master/images/n_aulas_por_professor.png)
+- [Configuração do número de matérias por professor](https://github.com/allanwk/SA-scheduler-public/blob/master/images/materias_por_professor.png)
+- [Exemplo de restrição complexa de horário para um professor](https://github.com/allanwk/SA-scheduler-public/blob/master/images/restricoes.png)
+- [Exemplo de restrição de horário para um professor](https://github.com/allanwk/SA-scheduler-public/blob/master/images/restricoes_simples.png)
 
 Features
 ----------------------

@@ -1,4 +1,4 @@
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/allanwk/RRGA_scheduler/blob/master/README.pt-br.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/allanwk/SA-scheduler-public/blob/master/README.pt-br.md)
 
 Simulated Annealing Algorithm for school timetables
 ==================
@@ -39,10 +39,10 @@ Inputs and Outputs
 
 ![schematic](images/horario.png)
 
-- [Spreadsheet specifying the number of timeslots occupied by each teacher by class](https://github.com/allanwk/RRGA_scheduler/blob/master/images/n_aulas_por_professor.png)
-- [Spreadsheet specifying the number of different subjects per teacher](https://github.com/allanwk/RRGA_scheduler/blob/master/images/materias_por_professor.png)
-- [Example of complex restrictions (weigthed) for a teacher](https://github.com/allanwk/RRGA_scheduler/blob/master/images/restricoes.png)
-- [Example of restrictions for a teacher](https://github.com/allanwk/RRGA_scheduler/blob/master/images/restricoes_simples.png)
+- [Spreadsheet specifying the number of timeslots occupied by each teacher by class](https://github.com/allanwk/SA-scheduler-public/blob/master/images/n_aulas_por_professor.png)
+- [Spreadsheet specifying the number of different subjects per teacher](https://github.com/allanwk/SA-scheduler-public/blob/master/images/materias_por_professor.png)
+- [Example of complex restrictions (weigthed) for a teacher](https://github.com/allanwk/SA-scheduler-public/blob/master/images/restricoes.png)
+- [Example of restrictions for a teacher](https://github.com/allanwk/SA-scheduler-public/blob/master/images/restricoes_simples.png)
 
 Features
 ----------------------
